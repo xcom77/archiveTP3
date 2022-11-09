@@ -17,7 +17,7 @@ public class JavaApplication10 {
         // TODO code application logic here
         System.out.println("am");
         System.out.println("am");
-        System.out.println("am");System.out.println("am");
+        System.out.println("am");
     }
     
 }
